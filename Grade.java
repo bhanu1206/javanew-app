@@ -1,3 +1,4 @@
+package app;
 public class Grade {
     private String courseName;
     private int credits;
